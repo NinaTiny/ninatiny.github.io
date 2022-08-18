@@ -122,7 +122,8 @@ class CursorSpecialEffects {
       area: {
         width: this.globalWidth,
         height: this.globalHeight
-      }
+      },
+      circleCount: 1
     })
     boom.init()
     this.booms.push(boom)
