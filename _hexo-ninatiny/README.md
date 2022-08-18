@@ -4,7 +4,7 @@
 
 [基于Hexo搭建个人博客](https://blog.csdn.net/yaorongke/article/details/119089190)
 
-## 常用命令
+##
 
 + install hexo
 > npm install -g hexo-cli
